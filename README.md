@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cybercsillee
-- 👀 I’m interested in ...cyber security
+- 👀 I’m interested in ...cybersecurity
 - 🌱 I’m currently learning ...basics of cyber security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
